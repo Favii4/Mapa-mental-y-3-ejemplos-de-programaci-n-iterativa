@@ -1,1 +1,1 @@
-Mapa mental y 3 ejemplos de programación iterativa
+Mapa mental y 3 ejemplos de programacion iterativa
