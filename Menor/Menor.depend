@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570241215 source:c:\users\alexander\desktop\ejemplos\menor\main.cpp
+	<stdio.h>
+	<conio.h>
+
