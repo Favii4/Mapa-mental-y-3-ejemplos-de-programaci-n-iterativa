@@ -9,3 +9,5 @@
 
 - Fabian Alexander Franco Quiroga - 20152020048 
 - Diego Alejandro Malagón - 20162020098
+
+https://github.com/Favii4/Mapa-mental-y-3-ejemplos-de-programaci-n-iterativa/blob/master/Mapa%20Mental.jpg?raw=true
