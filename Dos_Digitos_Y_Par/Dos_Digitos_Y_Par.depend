@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570241124 source:c:\users\alexander\desktop\ejemplos\dos_digitos_y_par\main.cpp
+	<stdio.h>
+	<conio.h>
+
